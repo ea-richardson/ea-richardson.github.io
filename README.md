@@ -13,7 +13,7 @@ This is my personal portfolio website built using and modified from the "Dimensi
 
 - **Icons**: [Font Awesome](https://fontawesome.com)
 
-- **Favicon**
+- **Favicon**:
   - Created using [favicon.io](https://favicon.io/).
   - Font: [Abyssinica SIL](https://fonts.google.com/specimen/Abyssinica+SIL).
 
