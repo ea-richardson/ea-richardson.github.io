@@ -13,9 +13,17 @@ This is my personal portfolio website built using and modified from the "Dimensi
 
 - **Icons**: [Font Awesome](https://fontawesome.com)
 
+- **Favicon**
+  - Created using [favicon.io](https://favicon.io/).
+  - Font: [Abyssinica SIL](https://fonts.google.com/specimen/Abyssinica+SIL).
+
 - **Other Libraries**:  
   - [jQuery](https://jquery.com)  
   - [Responsive Tools](https://github.com/ajlkn/responsive-tools)
+
+- **Miscellaneous**:
+  - [Simple Analytics](https://www.simpleanalytics.com)
+  - [FormEasy](https://github.com/Basharath/FormEasy)
 
 ## License
 
