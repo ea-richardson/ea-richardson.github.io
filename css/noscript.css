@@ -1,0 +1,37 @@
+/* noscript.css */
+
+/* Force light theme since dark-mode is JS-dependent */
+body {
+	--bg: white !important;
+	--text: #111 !important;
+	--accent: #0065F8 !important;
+	--card-bg: #fcfcfc !important;
+	--hover-bg: #F5F5F5 !important;
+	background-color: var(--bg) !important;
+	color: var(--text) !important;
+  }
+  
+  /* Hide theme toggle since it doesn't work without JS */
+  .theme-toggle {
+	display: none !important;
+  }
+  
+  /* Hide search placeholder and container — no dynamic search without JS */
+  #search-container {
+	display: none !important;
+  }
+  
+  /* Ensure all sections are visible */
+  section {
+	display: block !important;
+  }
+  
+  /* Ensure no-results message is visible only if written statically */
+  #noResults {
+	display: none !important;
+  }
+  
+  /* Hide back-to-top arrow if it's JS-triggered only */
+  #back-to-top {
+	display: none !important;
+  }

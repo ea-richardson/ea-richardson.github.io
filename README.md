@@ -1,30 +1,23 @@
-# Portfolio Website
+# GIS Portfolio
 
-This is my personal portfolio website built using and modified from the "Dimension" theme by [HTML5 UP](https://html5up.net/dimension).
+Welcome to my personal portfolio site — a clean, minimalistic space where I share a bit about who I am and the work I do.
 
-## Credits
+This portfolio replaces a previous version that was based on the [HTML5 UP](https://html5up.net/) "Dimension" theme.
 
-- **Design**: Modified version of [Dimension by HTML5 UP](https://html5up.net)  
-  - Original theme by [AJ](https://ajlkn.io)  
-  - Licensed under [Creative Commons Attribution 3.0 Unported (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/)
+## Sections
 
-- **Images**:  
-  - Background photo by [David Shayani](https://www.pexels.com/photo/serene-riverbank-27782330/)
+- **About** – A quick introduction.
+- **Work** – Highlights of GIS-related projects.
+- **Experience** – Professional background in the geospatial field.
+- **Education** – Academic background.
+- **Connect** – Ways to get in touch.
 
-- **Icons**: [Font Awesome](https://fontawesome.com)
+## Note on the Build
 
-- **Favicon**:
-  - Created using [favicon.io](https://favicon.io/)
-  - Font: [Abyssinica SIL](https://fonts.google.com/specimen/Abyssinica+SIL)
+This site was built with AI assistance.
 
-- **Other Libraries**:  
-  - [jQuery](https://jquery.com)  
-  - [Responsive Tools](https://github.com/ajlkn/responsive-tools)
+While the visual direction was loosely inspired by the [Hitchens theme](https://github.com/patdryburgh/hitchens), no code or assets from that project were intentionally used. I opted for a custom design tailored to better represent my vision and principles.
 
-- **Miscellaneous**:
-  - [Simple Analytics](https://www.simpleanalytics.com)
-  - [FormEasy](https://github.com/Basharath/FormEasy)
+---
 
-## License
-
-- This website's source code is free to use for personal and commercial purposes under the [Creative Commons Attribution 3.0 Unported (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/) license.
+Thanks for visiting!
