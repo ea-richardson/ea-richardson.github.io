@@ -1,18 +1,16 @@
-# GIS Portfolio
+# Career Portfolio
 
-Welcome to my personal portfolio site — a clean, minimalistic space where I share a bit about who I am and the work I do.
-
-This portfolio replaces a previous version that was based on the [HTML5 UP](https://html5up.net/) "Dimension" theme.
+Welcome to my professional portfolio site — a clean, minimalistic space where I share a bit about my work, experience, and career interests.
 
 ## Sections
 
-- **About** – A quick introduction.
-- **Work** – Highlights of GIS-related projects.
-- **Experience** – Professional background in the geospatial field.
+- **About** – Short bio and area of focus.
+- **Work** – Selected projects.
+- **Experience** – Professional experience.
 - **Education** – Academic background.
-- **Connect** – Ways to get in touch.
+- **Connect** – Contact information.
 
-## Note on the Build
+## About the Site
 
 This site was built with AI assistance.
 
